@@ -31,7 +31,7 @@
     }
 
     static void Selecao(double[] vetor){ //ordem crescente
-        //a aprte ordenada está entre 0 e i
+        //a parte ordenada está entre 0 e i
         for(int i = 0; i<vetor.Length; i++){
             int indMenor = i;
             //localiza o índice indMenor do menor elemento na parte não ordenada do vetor
